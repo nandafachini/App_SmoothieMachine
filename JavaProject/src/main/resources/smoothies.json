@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Classic",
+    "ingredients": ["strawberry", "banana", "pineapple", "mango", "peach", "honey"]
+  },
+  {
+    "name": "Freezie",
+    "ingredients": ["blackberry", "blueberry", "black currant", "grape juice", "frozen yogurt"]
+  },
+  {
+    "name": "Greenie",
+    "ingredients": ["green apple", "lime", "avocado", "spinach", "ice", "apple juice"]
+  },
+  {
+    "name": "Just Desserts",
+    "ingredients": [
+      "banana",
+      "ice cream",
+      "chocolate",
+      "peanut",
+      "cherry"
+    ]
+  }
+]
