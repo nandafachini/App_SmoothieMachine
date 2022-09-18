@@ -67,4 +67,4 @@ Serving on http://0.0.0.0:8080
 
 GNU
 
-**Free Software, Yeah baby!**
+**Free Software, enjoy!**
